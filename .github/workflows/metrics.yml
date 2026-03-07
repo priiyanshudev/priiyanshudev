@@ -20,3 +20,6 @@ jobs:
           plugin_languages: yes
           plugin_habits: yes
           plugin_isocalendar: yes
+          plugin_leetcode: yes
+          plugin_leetcode_user: priyanshudev
+          plugin_leetcode_sections: solved, skills, recent
