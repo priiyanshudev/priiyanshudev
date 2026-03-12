@@ -1,11 +1,18 @@
 # priyanshu
 
-i'm into cybersecurity, hardware, and systems programming. i mess around with esp32s and microcontrollers, write a lot of c and rust, and build for the web when needed. mostly here to contribute to open source, learn from good codebases, and connect with people building interesting things.
+ece undergrad on ubuntu, into electronics, cybersecurity, and coding at the systems level. i like knowing how things actually work — hardware, protocols, exploits, all of it.
+
+open to connecting with devs across the world.
 
 [![Twitter](https://img.shields.io/badge/twitter-@priyanshudevs-0f0f0f?style=flat-square&logo=x&logoColor=white)](https://twitter.com/priyanshudevs)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-priyanshudev1-0f0f0f?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshudev1)&nbsp;
 [![Instagram](https://img.shields.io/badge/instagram-p4incz-0f0f0f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/p4incz)&nbsp;
-[![Email](https://img.shields.io/badge/email-write%20me-0f0f0f?style=flat-square&logo=gmail&logoColor=white)](mailto:priyanshu.dev.in)
+[![Email](https://img.shields.io/badge/email-write%20me-0f0f0f?style=flat-square&logo=gmail&logoColor=white)](mailto:priyanshu.dev.in)&nbsp;
+![visitors](https://komarev.com/ghpvc/?username=priiyanshudev&style=flat-square&color=0f0f0f&label=visitors)
+
+<br/>
+
+`open to` &nbsp; embedded collabs &nbsp;·&nbsp; security research &nbsp;·&nbsp; os contributions &nbsp;·&nbsp; anything low-level
 
 <br/>
 
@@ -56,10 +63,10 @@ i'm into cybersecurity, hardware, and systems programming. i mess around with es
 <summary><b>currently into</b></summary>
 <br/>
 
-- cybersec — networks, exploitation, CTFs
-- going deeper with **rust** for systems projects
-- **esp32** experiments + pcb design
-- hunting for open source projects worth contributing to
+- writing bare-metal firmware and trying to keep it readable
+- esp32 + custom pcb stuff — mostly wireless sensor projects
+- going down the exploit dev rabbit hole, ctfs on weekends
+- looking for a good open source embedded or security project to contribute to
 
 <br/>
 </details>
@@ -68,9 +75,27 @@ i'm into cybersecurity, hardware, and systems programming. i mess around with es
 <summary><b>stats</b></summary>
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priiyanshudev&show_icons=true&theme=dark&bg_color=0f0f0f&border_color=2a2a2a&title_color=eeeeee&text_color=777777&icon_color=eeeeee&hide_border=false&count_private=true&rank_icon=github)
+<table>
+<tr>
+<td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priiyanshudev&layout=compact&theme=dark&bg_color=0f0f0f&border_color=2a2a2a&title_color=eeeeee&text_color=777777&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priiyanshudev&show_icons=true&theme=dark&bg_color=000000&border_color=000000&title_color=eeeeee&text_color=666666&icon_color=eeeeee&hide_border=true&count_private=true&rank_icon=github)
+
+</td>
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priiyanshudev&layout=compact&theme=dark&bg_color=000000&border_color=000000&title_color=eeeeee&text_color=666666&hide_border=true)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=priiyanshudev&theme=dark&background=000000&border=000000&ring=eeeeee&fire=eeeeee&currStreakLabel=eeeeee&sideLabels=666666&currStreakNum=eeeeee&sideNums=eeeeee&dates=666666&hide_border=true)
+
+</td>
+</tr>
+</table>
 
 <br/>
 </details>
@@ -79,7 +104,7 @@ i'm into cybersecurity, hardware, and systems programming. i mess around with es
 <summary><b>support</b></summary>
 <br/>
 
-if my work helped you —
+if something here was useful —
 
 [![Buy Me A Coffee](https://img.shields.io/badge/buymeacoffee-priyanshudev-0f0f0f?style=flat-square&logo=buymeacoffee&logoColor=FFDD00)](https://buymeacoffee.com/priyanshudev)
 
@@ -88,4 +113,4 @@ if my work helped you —
 <br/>
 </details>
 
-<sub>always down for a good collab · PRs welcome · feel free to reach out</sub>
+<sub>open to collabs · prs welcome · just dm</sub>
