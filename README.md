@@ -1,6 +1,6 @@
 # priyanshu
 
-ece undergrad on ubuntu, into electronics, cybersecurity, and coding at the systems level. i like knowing how things actually work — hardware, protocols, exploits, all of it.
+ece undergrad on ubuntu, into fullstack dev, devops, and cloud infrastructure. i like knowing how systems actually work — from writing the api to shipping it and keeping it alive in prod.
 
 open to connecting with devs across the world.
 
@@ -12,7 +12,7 @@ open to connecting with devs across the world.
 
 <br/>
 
-`open to` &nbsp; embedded collabs &nbsp;·&nbsp; security research &nbsp;·&nbsp; os contributions &nbsp;·&nbsp; anything low-level
+`open to` &nbsp; fullstack collabs &nbsp;·&nbsp; devops pipelines &nbsp;·&nbsp; cloud projects &nbsp;·&nbsp; open source contributions
 
 <br/>
 
@@ -26,31 +26,33 @@ open to connecting with devs across the world.
 
 **languages**<br/>
 ![C](https://img.shields.io/badge/C-0f0f0f?style=flat-square&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-0f0f0f?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Rust](https://img.shields.io/badge/Rust-0f0f0f?style=flat-square&logo=rust&logoColor=CE422B)
 ![Java](https://img.shields.io/badge/Java-0f0f0f?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![JS](https://img.shields.io/badge/JS-0f0f0f?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f0f0f?style=flat-square&logo=typescript&logoColor=3178C6)
+![Bash](https://img.shields.io/badge/Bash-0f0f0f?style=flat-square&logo=gnubash&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
-**embedded**<br/>
-![Arduino](https://img.shields.io/badge/Arduino-0f0f0f?style=flat-square&logo=arduino&logoColor=00979D)
-![ESP32](https://img.shields.io/badge/ESP32-0f0f0f?style=flat-square&logo=espressif&logoColor=E7352C)
-
-**cs**<br/>
-![DSA](https://img.shields.io/badge/DSA-0f0f0f?style=flat-square&logo=thealgorithms&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-0f0f0f?style=flat-square&logo=diagrams.net&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**web**<br/>
+**frontend**<br/>
 ![React](https://img.shields.io/badge/React-0f0f0f?style=flat-square&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node.js-0f0f0f?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0f0f0f?style=flat-square&logo=express&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-0f0f0f?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0f0f0f?style=flat-square&logo=css3&logoColor=1572B6)
+
+**backend**<br/>
+![Node](https://img.shields.io/badge/Node.js-0f0f0f?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0f0f0f?style=flat-square&logo=express&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-0f0f0f?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**devops & cloud**<br/>
+![Docker](https://img.shields.io/badge/Docker-0f0f0f?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0f0f0f?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0f0f0f?style=flat-square&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f0f0f?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0f0f0f?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 
 </td>
 </tr>
@@ -63,10 +65,11 @@ open to connecting with devs across the world.
 <summary><b>currently into</b></summary>
 <br/>
 
-- writing bare-metal firmware and trying to keep it readable
-- esp32 + custom pcb stuff — mostly wireless sensor projects
-- going down the exploit dev rabbit hole, ctfs on weekends
-- looking for a good open source embedded or security project to contribute to
+- building and shipping fullstack apps end to end
+- containerizing stuff with docker, writing compose files that don't break at 2am
+- setting up ci/cd pipelines and actually understanding what's happening in them
+- learning aws — ec2, s3, and slowly making sense of iam
+- open to contributing to devtools, infra tooling, or anything that ships to prod
 
 <br/>
 </details>
