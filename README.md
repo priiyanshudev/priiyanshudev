@@ -1,5 +1,12 @@
 # priyanshu
 
+<a href="mailto:priyanshu.dev.in@gmail.com">
+  <img src="https://raw.githubusercontent.com/priiyanshudev/priiyanshudev/main/images/social-gmail.svg" height="40" />
+</a>&nbsp;
+<a href="https://leetcode.com/priyanshudev" target="_blank">
+  <img src="https://raw.githubusercontent.com/priiyanshudev/priiyanshudev/main/images/social-leetcode.svg" height="40" />
+</a>
+
 ece undergrad on ubuntu, into fullstack dev, devops, and cloud infrastructure. i like knowing how systems actually work — from writing the api to shipping it and keeping it alive in prod.
 
 open to connecting with devs across the world.
