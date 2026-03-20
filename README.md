@@ -1,23 +1,66 @@
-# priyanshu
+<div align="center">
 
-ece undergrad on ubuntu, into fullstack dev, devops, and cloud infrastructure. i like knowing how systems actually work — from writing the api to shipping it and keeping it alive in prod.
+```
+╔═══════════════════════════════╗
+║         priyanshu             ║
+╚═══════════════════════════════╝
+```
 
-open to connecting with devs across the world.
+</div>
 
-[![Twitter](https://img.shields.io/badge/twitter-@priyanshudevs-0f0f0f?style=flat-square&logo=x&logoColor=white)](https://twitter.com/priyanshudevs)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-priyanshudev1-0f0f0f?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshudev1)&nbsp;
-[![Instagram](https://img.shields.io/badge/instagram-priyxnshudev-0f0f0f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/priyxnshudev)&nbsp;
-[![Email](https://img.shields.io/badge/email-write%20me-0f0f0f?style=flat-square&logo=gmail&logoColor=white)](mailto:priyanshu.dev.in)&nbsp;
+```js
+const me = {
+  role     : "ece undergrad, year 1",
+  os       : "ubuntu",
+  interests: ["fullstack", "hardware", "low-level systems"],
+  learning : ["rust"],  // painful. worth it.
+  outside  : ["drawing", "cats 🐈"],
+}
+```
+
 ![visitors](https://komarev.com/ghpvc/?username=priiyanshudev&style=flat-square&color=0f0f0f&label=visitors)
 
-<br/>
-
-`open to` &nbsp; fullstack collabs &nbsp;·&nbsp; devops pipelines &nbsp;·&nbsp; cloud projects &nbsp;·&nbsp; open source contributions
-
-<br/>
+---
 
 <details>
-<summary><b>stack</b></summary>
+<summary><code>~/socials</code></summary>
+<br/>
+
+| platform | handle | link |
+|----------|--------|------|
+| ![Twitter](https://img.shields.io/badge/twitter-0f0f0f?style=flat-square&logo=x&logoColor=white) | @priyanshudevs | [twitter.com/priyanshudevs](https://twitter.com/priyanshudevs) |
+| ![LinkedIn](https://img.shields.io/badge/linkedin-0f0f0f?style=flat-square&logo=linkedin&logoColor=white) | priyanshudev1 | [linkedin.com/in/priyanshudev1](https://linkedin.com/in/priyanshudev1) |
+| ![Instagram](https://img.shields.io/badge/instagram-0f0f0f?style=flat-square&logo=instagram&logoColor=white) | priyxnshudev | [instagram.com/priyxnshudev](https://instagram.com/priyxnshudev) |
+| ![Email](https://img.shields.io/badge/email-0f0f0f?style=flat-square&logo=gmail&logoColor=white) | write me | [priyanshu.dev.in](mailto:priyanshu.dev.in) |
+
+<br/>
+</details>
+
+<details>
+<summary><code>~/open-to</code></summary>
+<br/>
+
+fullstack collabs &nbsp;·&nbsp; devops pipelines &nbsp;·&nbsp; hardware tinkering &nbsp;·&nbsp; cloud projects &nbsp;·&nbsp; open source contributions
+
+just dm if something clicks.
+
+<br/>
+</details>
+
+<details>
+<summary><code>~/projects</code></summary>
+<br/>
+
+```
+// work in progress
+// check back soon
+```
+
+<br/>
+</details>
+
+<details>
+<summary><code>~/stack</code></summary>
 <br/>
 
 <table>
@@ -30,6 +73,7 @@ open to connecting with devs across the world.
 ![JS](https://img.shields.io/badge/JS-0f0f0f?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f0f0f?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Bash](https://img.shields.io/badge/Bash-0f0f0f?style=flat-square&logo=gnubash&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-0f0f0f?style=flat-square&logo=rust&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -54,6 +98,11 @@ open to connecting with devs across the world.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f0f0f?style=flat-square&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-0f0f0f?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 
+**hardware**<br/>
+![Arduino](https://img.shields.io/badge/Arduino-0f0f0f?style=flat-square&logo=arduino&logoColor=00979D)
+![I2C](https://img.shields.io/badge/I2C-0f0f0f?style=flat-square&logoColor=white)
+![UART](https://img.shields.io/badge/UART-0f0f0f?style=flat-square&logoColor=white)
+
 </td>
 </tr>
 </table>
@@ -62,20 +111,7 @@ open to connecting with devs across the world.
 </details>
 
 <details>
-<summary><b>currently into</b></summary>
-<br/>
-
-- building and shipping fullstack apps end to end
-- containerizing stuff with docker, writing compose files that don't break at 2am
-- setting up ci/cd pipelines and actually understanding what's happening in them
-- learning aws — ec2, s3, and slowly making sense of iam
-- open to contributing to devtools, infra tooling, or anything that ships to prod
-
-<br/>
-</details>
-
-<details>
-<summary><b>stats</b></summary>
+<summary><code>~/stats</code></summary>
 <br/>
 
 <table>
@@ -104,7 +140,7 @@ open to connecting with devs across the world.
 </details>
 
 <details>
-<summary><b>support</b></summary>
+<summary><code>~/support</code></summary>
 <br/>
 
 if something here was useful —
@@ -116,4 +152,6 @@ if something here was useful —
 <br/>
 </details>
 
-<sub>open to collabs · prs welcome · just dm</sub>
+---
+
+<sub>prs welcome · just dm</sub>
