@@ -1,19 +1,12 @@
 # priyanshu
 
-<a href="mailto:priyanshu.dev.in@gmail.com">
-  <img src="https://raw.githubusercontent.com/priiyanshudev/priiyanshudev/main/images/social-gmail.svg" height="40" />
-</a>&nbsp;
-<a href="https://leetcode.com/priyanshudev" target="_blank">
-  <img src="https://raw.githubusercontent.com/priiyanshudev/priiyanshudev/main/images/social-leetcode.svg" height="40" />
-</a>
-
 ece undergrad on ubuntu, into fullstack dev, devops, and cloud infrastructure. i like knowing how systems actually work — from writing the api to shipping it and keeping it alive in prod.
 
 open to connecting with devs across the world.
 
 [![Twitter](https://img.shields.io/badge/twitter-@priyanshudevs-0f0f0f?style=flat-square&logo=x&logoColor=white)](https://twitter.com/priyanshudevs)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-priyanshudev1-0f0f0f?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshudev1)&nbsp;
-[![Instagram](https://img.shields.io/badge/instagram-p4incz-0f0f0f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/p4incz)&nbsp;
+[![Instagram](https://img.shields.io/badge/instagram-p4incz-0f0f0f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/priyxnshudev)&nbsp;
 [![Email](https://img.shields.io/badge/email-write%20me-0f0f0f?style=flat-square&logo=gmail&logoColor=white)](mailto:priyanshu.dev.in)&nbsp;
 ![visitors](https://komarev.com/ghpvc/?username=priiyanshudev&style=flat-square&color=0f0f0f&label=visitors)
 
