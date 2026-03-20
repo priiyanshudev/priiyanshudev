@@ -6,7 +6,7 @@ open to connecting with devs across the world.
 
 [![Twitter](https://img.shields.io/badge/twitter-@priyanshudevs-0f0f0f?style=flat-square&logo=x&logoColor=white)](https://twitter.com/priyanshudevs)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-priyanshudev1-0f0f0f?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshudev1)&nbsp;
-[![Instagram](https://img.shields.io/badge/instagram-p4incz-0f0f0f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/priyxnshudev)&nbsp;
+[![Instagram](https://img.shields.io/badge/instagram-priyxnshudev-0f0f0f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/priyxnshudev)&nbsp;
 [![Email](https://img.shields.io/badge/email-write%20me-0f0f0f?style=flat-square&logo=gmail&logoColor=white)](mailto:priyanshu.dev.in)&nbsp;
 ![visitors](https://komarev.com/ghpvc/?username=priiyanshudev&style=flat-square&color=0f0f0f&label=visitors)
 
