@@ -1,157 +1,86 @@
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Priyanshu;ECE+undergrad+%40+2029;fullstack+%2B+devops+%2B+cloud;I+build+and+ship" />
 
-```
-╔═══════════════════════════════╗
-║         priyanshu             ║
-╚═══════════════════════════════╝
-```
-
-</div>
-
-```js
-const me = {
-  role     : "ece undergrad, year 1",
-  os       : "ubuntu",
-  interests: ["fullstack", "hardware", "low-level systems"],
-  learning : ["rust"],  // painful. worth it.
-  outside  : ["drawing", "cats 🐈"],
-}
-```
+<br/>
 
 ![visitors](https://komarev.com/ghpvc/?username=priiyanshudev&style=flat-square&color=0f0f0f&label=visitors)
 
 ---
 
-<details>
-<summary><code>~/socials</code></summary>
-<br/>
-
-| platform | handle | link |
-|----------|--------|------|
-| ![Twitter](https://img.shields.io/badge/twitter-0f0f0f?style=flat-square&logo=x&logoColor=white) | @priyanshudevs | [twitter.com/priyanshudevs](https://twitter.com/priyanshudevs) |
-| ![LinkedIn](https://img.shields.io/badge/linkedin-0f0f0f?style=flat-square&logo=linkedin&logoColor=white) | priyanshudev1 | [linkedin.com/in/priyanshudev1](https://linkedin.com/in/priyanshudev1) |
-| ![Instagram](https://img.shields.io/badge/instagram-0f0f0f?style=flat-square&logo=instagram&logoColor=white) | priyxnshudev | [instagram.com/priyxnshudev](https://instagram.com/priyxnshudev) |
-| ![Email](https://img.shields.io/badge/email-0f0f0f?style=flat-square&logo=gmail&logoColor=white) | write me | [priyanshu.dev.in](mailto:priyanshu.dev.in) |
-
-<br/>
-</details>
-
-<details>
-<summary><code>~/open-to</code></summary>
-<br/>
-
-fullstack collabs &nbsp;·&nbsp; devops pipelines &nbsp;·&nbsp; hardware tinkering &nbsp;·&nbsp; cloud projects &nbsp;·&nbsp; open source contributions
-
-just dm if something clicks.
-
-<br/>
-</details>
-
-<details>
-<summary><code>~/projects</code></summary>
-<br/>
-
-```
-// work in progress
-// check back soon
-```
-
-<br/>
-</details>
-
-<details>
-<summary><code>~/stack</code></summary>
-<br/>
-
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-**languages**<br/>
-![C](https://img.shields.io/badge/C-0f0f0f?style=flat-square&logo=c&logoColor=A8B9CC)
-![Java](https://img.shields.io/badge/Java-0f0f0f?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![JS](https://img.shields.io/badge/JS-0f0f0f?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f0f0f?style=flat-square&logo=typescript&logoColor=3178C6)
-![Bash](https://img.shields.io/badge/Bash-0f0f0f?style=flat-square&logo=gnubash&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-0f0f0f?style=flat-square&logo=rust&logoColor=white)
+**languages**
+
+<img src="https://skillicons.dev/icons?i=c,java,js,ts" /><br/>
+<img src="https://skillicons.dev/icons?i=bash,rust" />
 
 </td>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-**frontend**<br/>
-![React](https://img.shields.io/badge/React-0f0f0f?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-0f0f0f?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-0f0f0f?style=flat-square&logo=css3&logoColor=1572B6)
+**frontend · backend**
 
-**backend**<br/>
-![Node](https://img.shields.io/badge/Node.js-0f0f0f?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0f0f0f?style=flat-square&logo=express&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-0f0f0f?style=flat-square&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,html,css" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 </td>
-<td valign="top" width="33%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**devops & cloud**<br/>
-![Docker](https://img.shields.io/badge/Docker-0f0f0f?style=flat-square&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-0f0f0f?style=flat-square&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0f0f0f?style=flat-square&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f0f0f?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-0f0f0f?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+**devops · cloud**
 
-**hardware**<br/>
-![Arduino](https://img.shields.io/badge/Arduino-0f0f0f?style=flat-square&logo=arduino&logoColor=00979D)
-![I2C](https://img.shields.io/badge/I2C-0f0f0f?style=flat-square&logoColor=white)
-![UART](https://img.shields.io/badge/UART-0f0f0f?style=flat-square&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,linux,git" /><br/>
+<img src="https://skillicons.dev/icons?i=githubactions,aws" />
+
+</td>
+<td width="50%" valign="top">
+
+**hardware**
+
+<img src="https://skillicons.dev/icons?i=arduino" />
+
+`I2C` &nbsp; `UART` &nbsp; `SPI`
 
 </td>
 </tr>
 </table>
 
-<br/>
-</details>
-
-<details>
-<summary><code>~/stats</code></summary>
-<br/>
+---
 
 <table>
 <tr>
 <td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priiyanshudev&show_icons=true&theme=dark&bg_color=000000&border_color=000000&title_color=eeeeee&text_color=666666&icon_color=eeeeee&hide_border=true&count_private=true&rank_icon=github)
+<img src="https://github-readme-stats.vercel.app/api?username=priiyanshudev&show_icons=true&theme=dark&bg_color=000000&border_color=000000&title_color=eeeeee&text_color=666666&icon_color=eeeeee&hide_border=true&count_private=true&rank_icon=github" />
 
 </td>
 <td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priiyanshudev&layout=compact&theme=dark&bg_color=000000&border_color=000000&title_color=eeeeee&text_color=666666&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priiyanshudev&layout=compact&theme=dark&bg_color=000000&border_color=000000&title_color=eeeeee&text_color=666666&hide_border=true" />
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=priiyanshudev&theme=dark&background=000000&border=000000&ring=eeeeee&fire=eeeeee&currStreakLabel=eeeeee&sideLabels=666666&currStreakNum=eeeeee&sideNums=eeeeee&dates=666666&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=priiyanshudev&theme=dark&background=000000&border=000000&ring=eeeeee&fire=eeeeee&currStreakLabel=eeeeee&sideLabels=666666&currStreakNum=eeeeee&sideNums=eeeeee&dates=666666&hide_border=true" />
 
 </td>
 </tr>
 </table>
 
-<br/>
-</details>
+---
 
-<details>
-<summary><code>~/support</code></summary>
-<br/>
-
-if something here was useful —
-
-[![Buy Me A Coffee](https://img.shields.io/badge/buymeacoffee-priyanshudev-0f0f0f?style=flat-square&logo=buymeacoffee&logoColor=FFDD00)](https://buymeacoffee.com/priyanshudev)
-
-**ETH** &nbsp;&nbsp;`0xc388b454c98F52963F3544E1dF07195a23daEbab`
-
-<br/>
-</details>
+[![X](https://img.shields.io/badge/@priyanshudevs-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/priyanshudevs)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshudev1)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/priyxnshudev)
+[![Gmail](https://img.shields.io/badge/email-0f0f0f?style=flat-square&logo=gmail&logoColor=white)](mailto:priyanshu.dev.in)
 
 ---
 
-<sub>prs welcome · just dm</sub>
+[![BuyMeACoffee](https://img.shields.io/badge/buy_me_a_coffee-0f0f0f?style=flat-square&logo=buymeacoffee&logoColor=FFDD00)](https://buymeacoffee.com/priyanshudev)
+
+<br/>
+
+<sub>`ETH` &nbsp; `0xc388b454c98F52963F3544E1dF07195a23daEbab`</sub>
